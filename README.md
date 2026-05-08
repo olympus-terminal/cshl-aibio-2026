@@ -2,11 +2,11 @@
 
 **Full figure legends for the poster presented at the CSHL 90th Symposium — AI in Biology (2026)**
 
-David Roy Nelson<sup>1,3,*</sup>, Sarah Daakour<sup>1</sup>, Maxence Plouviez<sup>2</sup>, and Kourosh Salehi-Ashtiani<sup>1</sup>
+David Roy Nelson<sup>1,3,*</sup>, Sarah Daakour<sup>1</sup>, Maxence Plouviez<sup>2</sup>, and Kourosh Salehi-Ashtiani<sup>1,*</sup>
 
 <sup>1</sup>Division of Science, New York University Abu Dhabi
 <sup>2</sup>Cawthron Institute, Nelson, New Zealand
-<sup>3</sup>Lead contact &nbsp; <sup>*</sup>drn2@nyu.edu
+<sup>3</sup>Lead contact &nbsp; <sup>*</sup>Co-corresponding: drn2@nyu.edu, ksa3@nyu.edu
 
 ---
 
